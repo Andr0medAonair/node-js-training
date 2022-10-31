@@ -1,1 +1,1 @@
-# node-js-training
+# simple-airline-management-api
